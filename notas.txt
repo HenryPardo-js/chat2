@@ -1,0 +1,4 @@
+npm init --yes
+npm i express socket.io
+npm i nodemon -D
+npm run dev
